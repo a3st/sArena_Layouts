@@ -1,6 +1,6 @@
 # sArena Layouts
 
-Custom Layouts for sArena
+Custom UI layouts for sArena.
 
 ## Install
 
